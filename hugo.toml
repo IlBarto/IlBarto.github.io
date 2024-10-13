@@ -1,4 +1,13 @@
 baseURL = 'https://ilbarto.github.io/'
 languageCode = 'en-us'
 title = 'Jacopo Bartolini'
-theme = 'ananke'
+theme = 'hyde'
+
+
+[Menus]
+main = [
+    {Name = "LinkedIn", URL = "https://www.linkedin.com/in/jacopo-bartolini/"}
+]
+
+[params]
+description = "Software Engineer"
