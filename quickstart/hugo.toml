@@ -1,0 +1,4 @@
+baseURL = 'https://ilbarto.github.io/'
+languageCode = 'en-us'
+title = 'Jacopo Bartolini'
+theme = 'ananke'
